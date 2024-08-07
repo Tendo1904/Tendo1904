@@ -9,6 +9,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 
+![noko-kanoko-anime](https://github.com/user-attachments/assets/a3ef8605-ba08-4a02-8888-6d639a74cb3e)
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Tendo1904" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
@@ -16,11 +18,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### Badges
 
 <b>My GitHub Stats</b>
+<p align= "center">
+<a href="https://github.com/Tendo1904" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tendo1904&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</p>
+<p align= "center">
+<img src="https://github-readme-stats.vercel.app/api?username=Tendo1904&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Tendo1904's GitHub stats" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tendo1904&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 
-<a href="http://www.github.com/Tendo1904"><img src="https://github-readme-stats.vercel.app/api?username=Tendo1904&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Tendo1904's GitHub stats" /></a>
-
-<a href="http://www.github.com/Tendo1904"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tendo1904&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/Tendo1904"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Tendo1904&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Tendo1904" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tendo1904&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tendo1904&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</p>
