@@ -2,8 +2,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =============================================================================================================================
 
 <p align="left">
+  <a href="https://youtu.be/nwuW98yLsgY?si=jsvrDqhW-VJULVqF" target="_blank" rel="noreferrer">
   <img src="/gif/noko-kanoko-anime.gif" width="400" height="250"/>
+  </a>
+  <a href="https://youtu.be/iYWzMvlj2RQ?si=6QAG8LUj6O6h5JoU&t=29" target="_blank" rel="norereffer">
   <img src="/gif/lambdadelta-umineko.gif" width="400" height="250"/>
+  </a>
 </p>
 
 ### Skills
