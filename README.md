@@ -41,8 +41,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <b>My GitHub Stats</b>
 <p align= "left"> 
-<img src="https://github-readme-stats.vercel.app/api?username=Tendo1904&show_icons=true&theme=tokyonight" height="180"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tendo1904&layout=compact&theme=tokyonight&langs_count=10" height="180"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Tendo1904&show_icons=true&theme=tokyonight" height="180"/> 
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Tendo1904&layout=compact&theme=tokyonight&langs_count=10" height="180"/>
 </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tendo1904&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
